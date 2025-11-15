@@ -1,0 +1,7 @@
+langchain
+streamlit
+requests
+beautifulsoup4
+langchain-community
+tavily-python
+langgraph

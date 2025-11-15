@@ -1,4 +1,3 @@
-!pip install -r "/content/requirements.txt"
 import nltk
 from nltk.tokenize import word_tokenize
 import time

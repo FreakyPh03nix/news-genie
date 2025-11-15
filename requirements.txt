@@ -1,3 +1,4 @@
+nltk
 langchain
 streamlit
 requests
